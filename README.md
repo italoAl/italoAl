@@ -1,8 +1,6 @@
 ## Sejam bem vindos aos meus projetos! 
 <div align="center">
   <a href="https://github.com/italoAl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italoAl&show_icons=true&theme=gruvbox&bg_color=00000000&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoAl&layout=compact&langs_count=7&theme=gruvbox&bg_color=00000000"/>
 </div>
 
 <div style="display: inline_block"><br>
